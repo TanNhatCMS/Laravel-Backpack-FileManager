@@ -21,7 +21,7 @@
         "orchestra/testbench": "^8"
     },
     "replace": {
-        "backpack/filemanager": "^3"
+        "backpack/filemanager": "^3.0.10"
     },
     "autoload": {
         "psr-4": {
@@ -43,7 +43,7 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
         {
