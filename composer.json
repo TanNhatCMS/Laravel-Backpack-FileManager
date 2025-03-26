@@ -18,7 +18,7 @@
     "require-dev": {
         "phpunit/phpunit": "^10.0",
         "mockery/mockery": "^1.5",
-        "orchestra/testbench": "^8"
+        "orchestra/testbench": "^10"
     },
     "replace": {
         "backpack/filemanager": "^3"
