@@ -46,8 +46,7 @@
         {
             "name": "tannhatcms/crud",
             "type": "vcs",
-            "url": "https://github.com/TanNhatCMS/Laravel-Backpack-CRUD-Admin.git",
-            "canonical": true
+            "url": "https://github.com/TanNhatCMS/Laravel-Backpack-CRUD-Admin.git"
         }
     ]
 }
