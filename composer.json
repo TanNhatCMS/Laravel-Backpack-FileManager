@@ -40,11 +40,14 @@
             ]
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
             "name": "tannhatcms/crud",
-            "type": "git",
-            "url": "https://github.com/TanNhatCMS/Laravel-Backpack-CRUD-Admin.git"
+            "type": "vcs",
+            "url": "https://github.com/TanNhatCMS/Laravel-Backpack-CRUD-Admin.git",
+            "canonical": true
         }
     ]
 }
